@@ -159,7 +159,7 @@ class Ui_YourAge(object):
         
 ### ================== Lbl ====================================================================
       
-        self.lineEdit = QtWidgets.QLineEdit(YourAge)  # ==== sefid khali========
+        self.lineEdit = QtWidgets.QLineEdit(YourAge) 
         self.lineEdit.setGeometry(QtCore.QRect(253, 267, 81, 71))
         font = QtGui.QFont()
         font.setPointSize(35)
@@ -460,12 +460,10 @@ class Ui_YourAge(object):
         self.Introduction.setText(_translate("YourAge", "Program to determine your age category"))
         self.Start.setText(_translate("YourAge", "Start"))
         self.Enter.setText(_translate("YourAge", "Enter"))
-        self.Answer.setText(_translate("YourAge", ""))
+        self.Answer.setText(_translate("YourAge", "self.Answer.setText(_translate("YourAge", "Program to determine your age category"))
          
         
         
-
-
 
 if __name__ == "__main__":
     import sys
