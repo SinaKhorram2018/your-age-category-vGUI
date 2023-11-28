@@ -460,7 +460,7 @@ class Ui_YourAge(object):
         self.Introduction.setText(_translate("YourAge", "Program to determine your age category"))
         self.Start.setText(_translate("YourAge", "Start"))
         self.Enter.setText(_translate("YourAge", "Enter"))
-        self.Answer.setText(_translate("YourAge", "self.Answer.setText(_translate("YourAge", "Program to determine your age category"))
+        self.Answer.setText(_translate("YourAge", "Program to determine your age category"))
          
         
         
