@@ -6,4 +6,4 @@ This program is the new version of ((your-age-category)) which is written in Pyt
 
 
 ## Images
-![run](C:\Users\Sina\Desktop\Git-sanbox\New folder\run.PNG.png)
+![run](C:\Users\Sina\Desktop\Git-sanbox\New folder\run.png)
